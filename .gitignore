@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+*.spec
+
+# Virtual environments
+venv/
+.venv/
+
+# Application artifacts
+output/*
+!output/.gitkeep
+logs/*
+!logs/.gitkeep
+settings.json
+.env
+.env.local
+
+# Demo documents for screenshots (optional — not required at runtime)
+samples/
+!samples/.gitkeep
+# OS
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
+.qodo/

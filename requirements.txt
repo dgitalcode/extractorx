@@ -1,0 +1,11 @@
+# D-GITALCODE ExtractorX
+# https://dgitalcode.ma | dgitalcode@gmail.com
+# Python 3.11+
+
+customtkinter>=5.2.0
+tkinterdnd2>=0.4.0
+Pillow>=10.0.0
+python-docx>=1.1.0
+PyMuPDF>=1.24.0
+openpyxl>=3.1.0
+reportlab>=4.0.0
