@@ -23,7 +23,7 @@ PRODUCT_NAME: Final[str] = "ExtractorX"
 APP_VERSION: Final[str] = "2.0.0"
 APP_DISPLAY_VERSION: Final[str] = "v2.0.0"
 BRAND: Final[str] = "D-GITALCODE"
-COMPANY_SITE: Final[str] = "https://dgitalcode.ma"
+COMPANY_SITE: Final[str] = "https://d-gitalcodema.vercel.app"
 COMPANY_EMAIL: Final[str] = "dgitalcode@gmail.com"
 COPYRIGHT: Final[str] = f"{BRAND} © 2026 | {COMPANY_SITE}"
 

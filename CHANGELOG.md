@@ -6,6 +6,15 @@ Format based on [Keep a Changelog](https://keepachangelog.com/).
 
 ---
 
+## [2.0.1] — 2026-06-14
+
+### Changed
+
+- Updated README and portfolio docs with official website: [d-gitalcodema.vercel.app](https://d-gitalcodema.vercel.app/)
+- `COMPANY_SITE` in `config.py` aligned with live D-GITALCODE platform URL
+
+---
+
 ## [2.0.0] — 2026-06-14
 
 ### Added

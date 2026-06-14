@@ -2,7 +2,8 @@
 
 **Product:** Desktop document media extraction tool  
 **Repository:** [github.com/dgitalcode/extractorx](https://github.com/dgitalcode/extractorx)  
-**Website:** [dgitalcode.ma](https://dgitalcode.ma)
+**Website:** [d-gitalcodema.vercel.app](https://d-gitalcodema.vercel.app/)  
+**Portfolio:** [d-gitalcodema.vercel.app/fr/portfolio](https://d-gitalcodema.vercel.app/fr/portfolio)
 
 ---
 
@@ -37,6 +38,7 @@ Python 3.11 · CustomTkinter · Pillow · PyMuPDF · ReportLab · openpyxl · Py
 ---
 
 <p align="center">
-  <a href="https://dgitalcode.ma">dgitalcode.ma</a> ·
+  <a href="https://d-gitalcodema.vercel.app/">d-gitalcodema.vercel.app</a> ·
+  <a href="https://d-gitalcodema.vercel.app/fr/portfolio">Portfolio</a> ·
   <a href="mailto:dgitalcode@gmail.com">dgitalcode@gmail.com</a>
 </p>

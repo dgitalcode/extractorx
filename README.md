@@ -12,7 +12,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square)]()
 [![GUI](https://img.shields.io/badge/GUI-CustomTkinter-6c4cf1?style=flat-square)](https://github.com/TomSchimansky/CustomTkinter)
 
-[Features](#features) · [Screenshots](#screenshots) · [Installation](#installation) · [Usage](#usage) · [Architecture](#architecture) · [Docs](#documentation)
+[Official Website](https://d-gitalcodema.vercel.app/) · [Portfolio](https://d-gitalcodema.vercel.app/fr/portfolio) · [Features](#features) · [Screenshots](#screenshots) · [Installation](#installation) · [Usage](#usage) · [Architecture](#architecture) · [Docs](#documentation)
 
 </div>
 
@@ -20,7 +20,9 @@
 
 ## Overview
 
-**D-GITALCODE ExtractorX** is a professional desktop product for teams that need reliable document media extraction — legal, education, publishing, marketing, and enterprise document workflows.
+**D-GITALCODE ExtractorX** is a professional desktop product by [D-GITALCODE](https://d-gitalcodema.vercel.app/) — a premium digital agency specializing in web, mobile, WordPress, and automation solutions.
+
+Built for teams that need reliable document media extraction — legal, education, publishing, marketing, and enterprise document workflows.
 
 Drop in DOCX, DOC, PPTX, PPT, or PDF files. ExtractorX automatically selects the correct engine, extracts every embedded image, deduplicates across batches, organizes output by format, and generates branded reports — all without cloud uploads or external dependencies.
 
@@ -306,7 +308,19 @@ A cloud-hosted ExtractorX API (upload → process → download) could deploy to 
 | [docs/API.md](docs/API.md) | Internal service contracts |
 | [docs/SECURITY.md](docs/SECURITY.md) | Security policy and production rules |
 | [CHANGELOG.md](CHANGELOG.md) | Version history |
+| [docs/PORTFOLIO.md](docs/PORTFOLIO.md) | Portfolio summary for [d-gitalcodema.vercel.app](https://d-gitalcodema.vercel.app/fr/portfolio) |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Contribution guidelines |
+
+---
+
+## D-GITALCODE
+
+ExtractorX is part of the [D-GITALCODE](https://d-gitalcodema.vercel.app/) product portfolio — alongside web platforms, WooCommerce plugins, mobile apps, and automation tools.
+
+- **Website:** [d-gitalcodema.vercel.app](https://d-gitalcodema.vercel.app/)
+- **Portfolio:** [d-gitalcodema.vercel.app/fr/portfolio](https://d-gitalcodema.vercel.app/fr/portfolio)
+- **Contact:** [dgitalcode@gmail.com](mailto:dgitalcode@gmail.com)
+- **Services:** Web development · Mobile apps · WordPress · SaaS · Document automation
 
 ---
 
@@ -337,7 +351,7 @@ MIT License — see [LICENSE](LICENSE).
 
 **D-GITALCODE ExtractorX**
 
-[dgitalcode.ma](https://dgitalcode.ma) · [dgitalcode@gmail.com](mailto:dgitalcode@gmail.com) · [github.com/dgitalcode/extractorx](https://github.com/dgitalcode/extractorx)
+[d-gitalcodema.vercel.app](https://d-gitalcodema.vercel.app/) · [Portfolio](https://d-gitalcodema.vercel.app/fr/portfolio) · [dgitalcode@gmail.com](mailto:dgitalcode@gmail.com) · [github.com/dgitalcode/extractorx](https://github.com/dgitalcode/extractorx)
 
 *Professional document media extraction by D-GITALCODE*
 
